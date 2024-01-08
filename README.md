@@ -6,7 +6,7 @@ Challenge Description
 # Info 
 Hint: ```"I hate contrast"```
 
-Tags: Steganography, Cryptography, Packet analysis, Coverted channels
+Tags: ```Steganography, Cryptography, Packet analysis, Coverted channels```
 
 - Download the provided hekerCTF.jpg file.
 - Start the hunt.
