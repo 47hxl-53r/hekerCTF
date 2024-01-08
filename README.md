@@ -20,3 +20,6 @@ Once you've successfully discovered the flag, submit it [here](https://t.me/p4in
 This challenge is intended to be a fun and educational experience. If you find yourself stuck, don't hesitate to collaborate with fellow participants or seek help from online communities.
 
 Happy hacking!
+
+
+# Scoreboard
