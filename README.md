@@ -4,7 +4,7 @@ Welcome to HekerCTF, an intermediate-level Capture The Flag (CTF) challenge that
 Challenge Description
 
 # Info 
-Hint: ```"I hate contrast", "I hear some echoes over my head"```
+Hint: ```"I hate contrast"```
 
 Tags: ```Steganography, Cryptography, Packet analysis, Coverted channels```
 
