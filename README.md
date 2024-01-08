@@ -3,6 +3,10 @@
 Welcome to HekerCTF, an intermediate-level Capture The Flag (CTF) challenge that promises to be both fun and engaging! Can you crack the code and unveil the hidden secrets within the provided JPG file?
 Challenge Description
 
+## ------ Scoreboard ------
+1. [733n_wolf](https://www.linkedin.com/in/aswinkrishna07)
+2. [0xkratos](https://instagram.com/0xkratos)
+
 # Info 
 
 Flag format : ```hekerCTF{}```
