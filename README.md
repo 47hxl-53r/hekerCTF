@@ -8,7 +8,7 @@ Hint: ```"I hate contrast"```
 
 Tags: ```Steganography, Cryptography, Packet analysis, Coverted channels```
 
-- Download the provided hekerCTF.jpg file.
+- Download the provided challenge.jpg file.
 - Start the hunt.
 
 # Submitting the Flag
