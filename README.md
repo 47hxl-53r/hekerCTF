@@ -8,7 +8,7 @@ Challenge Description
 2. [0xkratos](https://instagram.com/0xkratos)
 3. [Antru](https://instagram.com/antrucybersoul)
 4. [N1Gh70wl](https://instagram.com/n1gh7owl)
-5. [castello.777](https://instagram.com/castello.777)
+5. [Castello](https://instagram.com/castello.777)
 
 # Info 
 
